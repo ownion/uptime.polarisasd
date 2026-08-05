@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.polarisasd.it.ico",
     "slug": "polaris-asd-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 498,
-    "timeWeek": 498,
-    "timeMonth": 498,
-    "timeYear": 498,
-    "dailyMinutesDown": {}
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 403,
+    "timeDay": 403,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403,
+    "dailyMinutesDown": {
+      "2026-08-05": 89,
+      "2026-08-04": 533
+    }
   }
 ]
